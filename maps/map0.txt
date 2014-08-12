@@ -1,0 +1,14 @@
+XXXXXXXXXXXXXXX
+X  :          X
+X             X
+X            :X
+XXXXXXXXXXX   X
+..........X   X
+.XXXXXXXX.X   X
+.X      X.X   X
+.X      X.X   X
+.X      X.X   X
+.XXXXXXXX.X   X
+..........X   X
+..........X   X
+..........XXXXX
